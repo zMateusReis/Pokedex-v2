@@ -4,7 +4,7 @@ Pokedex desenvolvida em html, css e JS.
 Conteúdo do canal Manual do Dev.
 
 <p align="center">
-<img width="500" height="400" src="/img/pokedex-v2.gif">
+<img width="800" height="800" src="/img/pokedex-v2.gif">
 </p>
 
 https://zmateusreis.github.io/Pokedex-v2/
